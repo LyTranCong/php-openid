@@ -13,7 +13,6 @@
     ],
     "require": {
         "php": ">=4.3",
-        "ext-gmp": "*",
         "ext-curl": "*",
         "ext-dom": "*"
     },
